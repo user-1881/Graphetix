@@ -1,17 +1,3 @@
 <h1>GraphetiX</h1>
-GraphetiX is a library of graph algorithms that will function as a flexible tool for interacting with various graph kinds. The library will provide various methods like executing key graph operations such as finding the shortest path between two nodes,
-graph traversal,finding shortest distance between two nodes and many more. We will be working with different types of graph like-
-a) Simple GraphFunctionalities
-b) Complete GraphFunctionalities
-c) Weighted GraphFunctionalities
-d) Directed GraphFunctionalities
-e) Undirected GraphFunctionalities
-f) Connected GraphFunctionalities
-g) Disconnected GraphFunctionalities
-h) Cyclic GraphFunctionalities
-i) Acyclic GraphFunctionalities
-j) Directed Acyclic GraphFunctionalities etc.
-We will also work with different graph search theories such as-
-a) Breadth First Search (BFS)
-B) Depth First Search (DFS)
-We intend to implement this project using Java in IntelliJ.
+GraphetiX, a user-friendly library tailored specifically for learning purposes. GraphetiX simplifies the creation, modification, and analysis of graphs, making it easier for novices to explore graph theory concepts. It supports key operations on specific graph types, such as simple, directed, and weighted graphs, and includes conversion features that help users learn about graph types by understanding their differences. However, these features are limited to the mentioned graph types and do not apply to others. By offering tools for tasks like finding shortest paths, building efficient networks, and managing resources, GraphetiX bridges the gap between theoretical understanding and practical application. With its intuitive design and focus on education, GraphetiX serves as an accessible gateway for learners to grasp the fundamentals of graph theory and its growing relevance in solving real-world problems.
+We implemented this project using Java in IntelliJ.
