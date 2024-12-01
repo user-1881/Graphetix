@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Graphetix:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Graphetix_jar</output-path>
+    <root id="archive" name="Graphetix.jar">
+      <element id="module-output" name="Graphetix" />
+    </root>
+  </artifact>
+</component>
